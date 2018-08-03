@@ -1,7 +1,7 @@
 # cross-solar
-CrossOver project test that got me into their marketplace. Bug fixes and unit test coverage increase.
+Test project made for Crossover that got me into their marketplace. Code revision, bug fixes and unit test coverage increase.
 
-I entered the CrossOver marketplace last week. This is my test project for evaluation.
+I entered the Crossover marketplace last week. This is my project for evaluation.
 Things I needed to do:
 
 1)	Increase unit test coverage to reach 60% or more.
